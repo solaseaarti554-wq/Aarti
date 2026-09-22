@@ -1,2 +1,2 @@
 # Aarti
-this repo is based on GitHub workshop
+This repo is based on GitHub workshop.
